@@ -22,3 +22,8 @@
 |carat| know your stone->carat|
 |color|know your stone->color|
 |clarity|know your stone->clarity|
+|url| url for the product|
+
+
+All the product are extracted from [this page](https://keyzarjewelry.com/collections/preset-lab-diamond-engagement-rings?center_stone_shape=Round)  
+You can use [this link](https://keyzarjewelry.com/products/the-low-profile-kamellie-setting-round-14k-white-gold-solitaire-2-carat-lab-diamond) for refering the keys of the data.
